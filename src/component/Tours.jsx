@@ -15,3 +15,4 @@ const Tours = ({tours,removeTour}) =>{
         </section>
     )
 }
+export default Tours
